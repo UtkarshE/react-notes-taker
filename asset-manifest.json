@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-notes-taker/static/css/main.d2b287f0.css",
+    "main.js": "/react-notes-taker/static/js/main.4cafa675.js",
+    "index.html": "/react-notes-taker/index.html",
+    "main.d2b287f0.css.map": "/react-notes-taker/static/css/main.d2b287f0.css.map",
+    "main.4cafa675.js.map": "/react-notes-taker/static/js/main.4cafa675.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2b287f0.css",
+    "static/js/main.4cafa675.js"
+  ]
+}
